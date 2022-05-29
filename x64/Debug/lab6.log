@@ -1,0 +1,8 @@
+﻿  foundation.cpp
+C:\Users\grand\Documents\prog\lab6\foundation.h(23,1): warning C4227: anachronism used: qualifiers on reference are ignored
+C:\Users\grand\Documents\prog\lab6\foundation.h(41): message : see reference to class template instantiation 'Iterator<U,T>' being compiled
+  lab6.cpp
+C:\Users\grand\Documents\prog\lab6\foundation.h(23,1): warning C4227: anachronism used: qualifiers on reference are ignored
+C:\Users\grand\Documents\prog\lab6\foundation.h(41): message : see reference to class template instantiation 'Iterator<U,T>' being compiled
+  Generating Code...
+  lab6.vcxproj -> C:\Users\grand\Documents\prog\lab6\x64\Debug\lab6.exe
